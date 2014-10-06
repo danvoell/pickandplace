@@ -1,0 +1,39 @@
+ENVT0100,LM:2006/02/01 19:01:52:882,DS:0000000672,CS:05401,MA:00-80-4C-4B-3E-3C,EI:           
+sRCNGVersion="1.0.0 Alpha 3b1"
+InputBitLabels {
+	nNumberOfLabels=1
+	Label1 {
+		nBit=0
+		sLabel="partInPos"
+		sDescription="Pallet and part is ready for pick"
+	}
+}
+InputByteLabels {
+	nNumberOfLabels=0
+}
+InputWordLabels {
+	nNumberOfLabels=0
+}
+OutputBitLabels {
+	nNumberOfLabels=1
+	Label1 {
+		nBit=0
+		sLabel="gripper"
+		sDescription=""
+	}
+}
+OutputByteLabels {
+	nNumberOfLabels=0
+}
+OutputWordLabels {
+	nNumberOfLabels=0
+}
+MemoryBitLabels {
+	nNumberOfLabels=0
+}
+MemoryByteLabels {
+	nNumberOfLabels=0
+}
+MemoryWordLabels {
+	nNumberOfLabels=0
+}
