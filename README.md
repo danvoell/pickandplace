@@ -1,4 +1,4 @@
-pickandplace
+Pick and Place software for an Epson RC90 Controller with an LS6 Manipulator
 ============
 
 Epson RC90 Controller with LS6 Manipulator
